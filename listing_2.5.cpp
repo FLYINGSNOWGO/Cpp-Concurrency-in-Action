@@ -1,5 +1,4 @@
 #include <thread>
-
 void some_function()
 {}
 
